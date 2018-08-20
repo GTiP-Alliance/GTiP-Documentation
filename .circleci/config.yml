@@ -1,0 +1,34 @@
+# Golang CircleCI 2.0 configuration file
+
+# Check https://circleci.com/docs/2.0/language-go/ for more details
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+#       install git
+      - run: apk update && apk add git
+
+    # install node and nodejs
+      - run: apk add --update nodejs nodejs-npm
+    #   install aerobatic cli
+      - run: npm install aerobatic-cli --global
+
+    #   checkout the repository
+      - checkout
+
+    #   build with Hugo
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+#      - run: |
+#              htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
+#              --empty-alt-ignore --disable-external
+
+      # deploy to aerobatic
+      - run: aero deploy --directory $HUGO_BUILD_DIR
+
+# `deploy` step: identical to a `run` step, but uses only one container:
+# https://circleci.com/docs/2.0/configuration-reference/#deploy
