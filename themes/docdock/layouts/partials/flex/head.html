@@ -1,0 +1,35 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+{{ .Hugo.Generator }}
+<title>{{ .Title }} :: {{ .Site.Title }}</title>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="shortcut icon" href="{{"images/favicon.ico" | relURL}}" type="image/x-icon" />
+<link href="{{"css/font-awesome.min.css" | relURL}}" rel="stylesheet">
+<link href="{{"css/nucleus.css" | relURL}}" rel="stylesheet">
+<link href="{{(printf "theme-%s/style.css" (.Site.Params.themeStyle| default "flex")  ) | relURL}}" rel="stylesheet">
+{{with .Site.Params.themeVariant}}
+	<link href="{{(printf "theme-%s/variant-%s.css" ($.Site.Params.themeStyle| default "flex") .) | relURL}}" rel="stylesheet">
+{{end}}
+<link rel="stylesheet" href="{{"css/bootstrap.min.css" | relURL}}">
+<script src="{{"js/jquery-2.x.min.js" | relURL}}"></script>
+<script type="text/javascript">
+      var baseurl = "{{.Site.BaseURL}}";
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111409819-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111409819-3');
+</script>
+
+{{ partial "custom-head.html" . }}

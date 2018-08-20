@@ -1,0 +1,12 @@
+id: 7b07e4a5-0c39-4705-bf76-eb9650ba0e07
+deploy:
+  ignore: []
+  directory: public
+plugins:
+  - name: auth0
+#    path: /*
+    options:
+      clientId: LVXkgPZiZa2eHi2VpY5x5CbSbK1jZM2R
+      clientSecret: 19DNZeDuvktMJQJ4LW1l4Q3xcrNq2d_jvkGJIBR4V5zUHLDShCG0OVAY3xv5GKWV
+      tenant: qredo.eu
+  - name: webpage
