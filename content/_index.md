@@ -24,6 +24,9 @@ information provided here may be subject to changes in the near future. You can 
 issue on <a href="https://github.com/GTiP-Alliance/GTiP-Documentation/issues">Github</a> if you spot an error or if you think of any
 improvement.</p>
 
+<h2 id="repo-link">Code</h2>
+<p>You can find out code respository here <a href = "https://github.com/GTiP-Alliance">Git Hub</a></p>
+
 $ax^2+bx+c=0$
 
 </section>
