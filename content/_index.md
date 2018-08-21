@@ -25,7 +25,7 @@ issue on <a href="https://github.com/GTiP-Alliance/GTiP-Documentation/issues">Gi
 improvement.</p>
 
 <h2 id="repo-link">Code</h2>
-<p>You can find out code respository here <a href = "https://github.com/GTiP-Alliance">Git Hub</a></p>
+<p>You can find our code respository here <a href = "https://github.com/GTiP-Alliance">Git Hub</a></p>
 
 $ax^2+bx+c=0$
 
