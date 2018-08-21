@@ -1,14 +1,14 @@
 +++
-title = "Qredo Documentation Home"
-description = "Qredo Documentation Index Page"
+title = "GTiP Alliance Documentation Home"
+description = "GTiP Alliance Documentation Index Page"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type=""
 # Creator's Display name
-creatordisplayname = "Qredo Community"
+creatordisplayname = "GTiP Alliance"
 # Creator's Email
 creatoremail = "community@qredo.org"
 # LastModifier's Display name
-lastmodifierdisplayname = "Qredo Community"
+lastmodifierdisplayname = "GTiP Alliance"
 # LastModifier's Email
 lastmodifieremail = "community@qredo.org"
 alwaysopen = true
