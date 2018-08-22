@@ -2,7 +2,7 @@ lbaseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Qredo Documentation"
+title = "GTiP Documentation"
 theme = "docdock"
 # themesdir = "../.."
 pygmentsCodeFences = true
