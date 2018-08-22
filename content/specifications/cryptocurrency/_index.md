@@ -1,16 +1,16 @@
 +++
-title = "Qredo Cryptocurrency"
+title = "GTiP Cryptocurrency"
 description = ""
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="default"
 # Creator's Display name
-creatordisplayname = "Qredo Community"
+creatordisplayname = "GTiP Community"
 # Creator's Email
-creatoremail = "community@qredo.org"
+creatoremail = "community@gtip.org"
 # LastModifier's Display name
-lastmodifierdisplayname = "Qredo Community"
+lastmodifierdisplayname = "GTiP Community"
 # LastModifier's Email
-lastmodifieremail = "community@qredo.org"
+lastmodifieremail = "community@gtip.org"
 alwaysopen = true
 weight = 1
 +++
