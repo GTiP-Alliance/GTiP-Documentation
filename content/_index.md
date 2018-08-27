@@ -6,11 +6,11 @@ type=""
 # Creator's Display name
 creatordisplayname = "GTiP Alliance"
 # Creator's Email
-creatoremail = "community@qredo.org"
+creatoremail = "docs@gtipalliance.org"
 # LastModifier's Display name
 lastmodifierdisplayname = "GTiP Alliance"
 # LastModifier's Email
-lastmodifieremail = "community@qredo.org"
+lastmodifieremail = "docs@gtipalliance.org"
 alwaysopen = true
 +++
 
@@ -25,6 +25,6 @@ issue on <a href="https://github.com/GTiP-Alliance/GTiP-Documentation/issues">Gi
 improvement.</p>
 
 <h2 id="repo-link">Code</h2>
-<p>You can find our code respository here <a href = "https://github.com/GTiP-Alliance">Git Hub</a></p>
+<p>You can find our code respository here <a href = "https://github.com/GTiP-Alliance">GitHub</a></p>
 
 </section>
