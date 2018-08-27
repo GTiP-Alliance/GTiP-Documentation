@@ -1,4 +1,4 @@
-# Qredo Documentation
+# GTiP Documentation
 
 ## Geting Started
 To get going, please read the Wiki attached to this repository.
@@ -8,7 +8,7 @@ The Wiki is a short compendium on how to get up to speed on GitHub and some rule
 This should take you no more than a few minutes.
 
 ## Technologies
-Qredo documentation is compiled using the Hugo static site generator.
+GTiP documentation is compiled using the Hugo static site generator.
 
 The theme is modified from the Dodock theme available at https://themes.gohugo.io/.
 
