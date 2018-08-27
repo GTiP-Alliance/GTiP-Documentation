@@ -7,6 +7,8 @@ jobs:
     branches:
       only:
         - master
+        - deploy
+        - feature/deploy-master
     docker:
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo

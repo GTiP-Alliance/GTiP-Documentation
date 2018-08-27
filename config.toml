@@ -28,7 +28,7 @@ enableMissingTranslationPlaceholders = false
 
 
 [params]
-editURL = "https://github.com/qredo/Qredo-Documentation/blob/develop/content/"
+editURL = "https://github.com/GTiP-Alliance/GTiP-Documentation"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
@@ -54,18 +54,18 @@ weight = 10
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> <label>Github repos</label>"
 identifier = "ds"
-url = "https://github.com/Qredo"
+url = "https://github.com/GTiP-Alliance"
 weight = 12
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-cloud-download'></i> <label>Downloads</label>"
-url = "https://github.com/Qredo"
+url = "https://github.com/GTiP-Alliance"
 weight = 14
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-bookmark'></i> <label>Documentation GitHub Wiki</label>"
 identifier = "Qredo Documentation Wiki"
-url = "https://github.com/Qredo/Qredo-Documentation/wiki"
+url = "https://github.com/GTiP-Alliance/GTiP-Documentation/wiki"
 weight = 13
 
 [[menu.shortcuts]]
