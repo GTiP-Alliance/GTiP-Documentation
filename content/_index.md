@@ -16,13 +16,13 @@ alwaysopen = true
 
 <section>
 <h2 id="what-is-qredo">What is GTiP?</h2>
-<p>The Global Telecom Inter-Payments Alliance, or GTiP Alliance, is an industry alliance whose vision is to move telecom and retail initiated Direct Carrier Billing solutions forward to become the dominant payment method of choice of consumers and merchants when using mobile digital payments.
+<p>The Global Telecom Inter-Payments Alliance, or GTiP Alliance, is an industry alliance whose vision is to move telecom and retail initiated Direct Carrier Billing solutions forward to become the dominant payment method of choice of consumers and merchants when using mobile digital payments.</p>
 
-GTiP’s mission is to launch, grow and sustain a secure, scalable and interoperable direct carrier billing decentralised network using a native cryptocurrency and distributed ledger technologies explicitly created to address the unique business and technical requirements of the telecoms industry.
+<p>GTiP’s mission is to launch, grow and sustain a secure, scalable and interoperable direct carrier billing decentralised network using a native cryptocurrency and distributed ledger technologies explicitly created to address the unique business and technical requirements of the telecoms industry.</p>
 
-This innovative and market-defining mobile digital payments network will take advantage of the cross-carrier connectivity, capacity and investments in global telecommunications networks while leveraging the latest innovations in distributed ledger technology and cryptocurrency designs to create an ecosystem that benefits consumers, merchants and communication service providers globally.
+<p>This innovative and market-defining mobile digital payments network will take advantage of the cross-carrier connectivity, capacity and investments in global telecommunications networks while leveraging the latest innovations in distributed ledger technology and cryptocurrency designs to create an ecosystem that benefits consumers, merchants and communication service providers globally.</p>
 
-The GTiP Alliance is the sponsoring body of the GTiP payment protocols and related opens source cryptocurrency project and open source sub-projects, providing stewardship on their development and implementation.</p>
+<p>The GTiP Alliance is the sponsoring body of the GTiP payment protocols and related opens source cryptocurrency project and open source sub-projects, providing stewardship on their development and implementation.</p>
 
 <h2 id="documentation">Documentation</h2>
 <p>This documentation is, as the <a href="https://gtipalliance.org/">GTiP Alliance</a> project, currently under development and the
