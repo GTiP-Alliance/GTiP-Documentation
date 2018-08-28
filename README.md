@@ -1,5 +1,5 @@
 # GTiP Documentation
-
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/GTiP-Alliance/Waffle.svg?columns=all)](https://waffle.io/GTiP-Alliance/Waffle)
 ## Geting Started
 Please read the Wiki attached to this repository if you intend to contribute to this repository.
 
