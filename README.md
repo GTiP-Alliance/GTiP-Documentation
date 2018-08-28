@@ -1,14 +1,10 @@
-# Qredo Documentation
-
+# GTiP Documentation
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/GTiP-Alliance/Waffle.svg?columns=all)](https://waffle.io/GTiP-Alliance/Waffle)
 ## Geting Started
-To get going, please read the Wiki attached to this repository.
-
-The Wiki is a short compendium on how to get up to speed on GitHub and some rules and processes we need to follow to generate content. To get up to speed and get productive, make sure you complete all the steps in the wiki.
-
-This should take you no more than a few minutes.
+Please read the Wiki attached to this repository if you intend to contribute to this repository.
 
 ## Technologies
-Qredo documentation is compiled using the Hugo static site generator.
+GTiP documentation is compiled using the Hugo static site generator.
 
 The theme is modified from the Dodock theme available at https://themes.gohugo.io/.
 
